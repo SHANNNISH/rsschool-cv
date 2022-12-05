@@ -41,7 +41,6 @@ const humanYearsCatYearsDogYears = (humanYears) => {
 }
 ```
 
-<!--
 ## Work experience:
 
 Absent
@@ -52,4 +51,4 @@ Software testing courses, Frontend development courses.
 
 ## English level:
 
-Intermediate -->
+Intermediate
