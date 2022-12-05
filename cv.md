@@ -12,7 +12,7 @@ Telephone number 80296851886.
 
 I am 20 years old, I live in Minsk, I study front-end and plan to further develop in this area.
 
-<!-- ## Sklills:
+## Sklills:
 
 Basic knowledge HTML/CSS/Javascripts/React
 
@@ -41,6 +41,7 @@ const humanYearsCatYearsDogYears = (humanYears) => {
 }
 ```
 
+<!--
 ## Work experience:
 
 Absent
